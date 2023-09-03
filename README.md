@@ -9,8 +9,8 @@
 - ⚡ I am looking for new projects to collaborate on.
 - 📈 Perfection, Efficient and Results-Driven.
 - 💻 MERN Stack Development.
-- 📫 Contact me at rayracing@gmail.com
-- 📚 Know about my experiences https://www.linkedin.com/in/raquelalbeldolopez/
+- 📫 Contact me at raquelortegalabrac@gmail.com
+- 📚 Know about my experiences https://www.linkedin.com/in/raquelortegalabrac/
 
 Kaizen methodology: learning every day to be better than yesterday.
 
@@ -21,16 +21,14 @@ const raquel = {
   code: ["Typescript", "Javascript", "HTML", "CSS"],
   technologies: [
     "Angular",
-    "Rxjs",
-    "NgRx",
     "React",
     "Redux",
     "Node",
     "Jest",
-    "NestJS",
+    "NodeJS",
     "Express",
   ],
-  testing: ["Testing Library", "Jest", "Cypress"],
+  testing: ["Testing Library", "Jest"],
   database: [
     "MongoDB",
     "Mongoose",
@@ -41,13 +39,12 @@ const raquel = {
     "Vercel",
   ],
   editors: ["VScode"],
-  otherTools: ["Git", "Github", "Figma", "Photoshop", "Trello", "Notion"],
+  otherTools: ["Git", "Github", "Figma", "Trello", "Notion"],
   codeSchool: {
     name: "ISDI-Coders",
     location: "Madrid",
     mentor: "Alejandro Cerezo Lasne",
   },
-  challenge: "to do the best web about cars",
 };
 ```
 
