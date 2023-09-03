@@ -51,8 +51,8 @@ const raquel = {
 ## 📈 My github stats
 
 <p align="center">
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelalbel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelalbel&layout=compact&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelortegalabrac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelortegalabrac&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🪄 My Skill Set
