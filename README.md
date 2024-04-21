@@ -2,27 +2,28 @@
 
 ## 🧠 Who am I
 
-- 👾 Hi! I'm Raquel, and I am a Full Stack Web Developer.
+- 👾 Hi! I'm Christian, and I am a Full Stack Web Developer.
 - 🌱 I’m currently learning
 - 📚 I'm interested in continuing to learn
 - 🌟 I love doing Clean Code and Good Practices.
 - ⚡ I am looking for new projects to collaborate on.
 - 📈 Perfection, Efficient and Results-Driven.
 - 💻 MERN Stack Development.
-- 📫 Contact me at raquelortegalabrac@gmail.com
-- 📚 Know about my experiences https://www.linkedin.com/in/raquelortegalabrac/
+- 📫 Contact me at echristianfonkeng@gmail.com
+- 📚 Know about my experiences https://www.linkedin.com/in/christianfonkeng/
 
 Kaizen methodology: learning every day to be better than yesterday.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const raquel = {
-  code: ["Typescript", "Javascript", "HTML", "CSS"],
+const christian = {
+  code: ["Python", "Java", "Typescript", "Javascript", "C#", "HTML", "CSS"],
   technologies: [
     "Angular",
     "React",
     "Redux",
+    "Django",
     "Node",
     "Jest",
     "NodeJS",
@@ -31,15 +32,12 @@ const raquel = {
   testing: ["Testing Library", "Jest"],
   database: [
     "MongoDB",
-    "Mongoose",
-    "Firebase",
-    "Postman",
-    "Sonar",
-    "Netlify",
-    "Vercel",
+    "MySQL",
+    "POSTGRES",
+    "Oracle",
   ],
   editors: ["VScode"],
-  otherTools: ["Git", "Github", "Figma", "Trello", "Notion"],
+  otherTools: ["Git", "Github", "Figma", "Trello", "Notion", "Postman", "Vercel"],
   codeSchool: {
     name: "ISDI-Coders",
     location: "Madrid",
@@ -126,5 +124,5 @@ const raquel = {
 ## 📫 How to reach me
 
 <a href="https://github.com/raquelortegalabrac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelortegalabrac@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquelortegalabrac/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echristianfonkeng@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianfonkeng/)
